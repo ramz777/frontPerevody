@@ -1,0 +1,14 @@
+.select{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    border: 0px;
+    border-radius: 2px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.courses{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    color: white
+}

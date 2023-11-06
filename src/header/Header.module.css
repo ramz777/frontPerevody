@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.logo img{
+    width: 40px;
+}
+
+.title{
+    color: white;
+    font-size: 12px;
+}
